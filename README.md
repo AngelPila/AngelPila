@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Angel Pilataxi
 
-**Desarrollador de Software en [Jelou](https://jelou.ai) · Estudiante de Ing. en Ciencias de la Computación (ESPOL) · Ganador de hackathons 🏆**
+**Pasante Desarrollo de Software en [Jelou](https://jelou.ai) · Estudiante de Ing. en Ciencias de la Computación (ESPOL) · Ganador de hackathons 🏆**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-pilataxi-96343630b/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/AngelPila)
