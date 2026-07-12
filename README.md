@@ -22,8 +22,10 @@ Estudiante de Ingeniería en Ciencias de la Computación en la **ESPOL** con enf
 |-----|----------------|----------|
 | 2026 | 🥇 **1er lugar** — Track Gobernabilidad y Servicio Ciudadano, INNOVaiLAB (Misión Ecuador Innovaitech) | Plataforma de transparencia ciudadana |
 | 2025 | 🥇 **1er lugar local** — NASA Space Apps Challenge (IEEE ESPOL) | Plataforma de calidad del aire en tiempo real |
-| 2025 | 🏅 **Ganador** — Hackathon Agrofuturo (Nestlé & ESPOL) | WAQI |
+| 2025 | 🥇 **1er lugar** — Hackathon Agrofuturo (Nestlé & ESPOL) | WAQI |
 | 2025 | 🥉 **3er lugar nacional** — Hackathon Innovailab | Govly |
+| 2026 | 🥇 **2do lugar** — HackIAthon by Viamatica | Argly (Plataforma para toma de decisiones en aseguradoras) |
+
 
 ## 💻 Proyectos destacados
 
