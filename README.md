@@ -12,7 +12,7 @@ Estudiante de Ingeniería en Ciencias de la Computación en la **ESPOL** con enf
 
 - 💼 Actualmente: **Desarrollador de Software en Jelou S.A.** — automatización de KPIs, optimización de SQL Server e investigación en arquitecturas de IA multi-agente.
 - 🎓 Ayudante de cátedra de **Sistemas de Bases de Datos** en ESPOL (SQL Server, normalización, stored procedures, triggers y transacciones).
-- 👨‍🏫 Ex profesor de formación profesional en **Universidad de los Andes (Colombia)** — lógica de programación y Python.
+- 👨‍🏫 Ex mentor de formación profesional en **Universidad de los Andes (Colombia)** — lógica de programación y Python.
 - 🤝 Miembro de **IEEE-HKN (Nu Zeta)**, sociedad de honor de la IEEE, y del club **TAWS** de desarrollo web en ESPOL.
 - 🌐 Español (nativo) · Inglés (B2)
 
